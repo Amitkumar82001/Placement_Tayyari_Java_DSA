@@ -7,5 +7,6 @@ public class variable {
         System.out.print(x);
         int y=20;
         System.out.println(y);
+        System.out.println(x+"java"+20); //append
     }
 }
