@@ -1,0 +1,27 @@
+  Id CommandLine
+  -- -----------
+   1 cls
+   2 git --version
+   3 git init
+   4 git add .
+   5 git commit -m "Initial commit"
+   6 git remote add origin https://github.com/Amitkumar82001/Placement_Tayyari_Java_DSA.git
+   7 git branch -M main
+   8 git push -u origin main
+   9 cls
+  10 git init
+  11 git add README.md
+  12 git commit -m "first commit"
+  13 git branch -M main
+  14 git remote add origin https://github.com/Amitkumar82001/Placement_Tayyari_Java_DSA.git
+  15 git push -u origin main
+  16 cls
+  17 echo "# Placement_Tayyari_Java_DSA" >> README.md
+  18 git init
+  19 git add README.md
+  20 git commit -m "first commit"
+  21 git branch -M main
+  22 git remote add origin https://github.com/Amitkumar82001/Placement_Tayyari_Java_DSA.git
+  23 git push -u origin main
+  24 cls
+
